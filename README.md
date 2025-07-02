@@ -1,3 +1,6 @@
+ [![Networking with 🌐](https://a.b-b.top/badge.svg?repo=Cisco-Research&label=Networking%20with%20🌐&background_color=1976d2&background_color2=1e88e5&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+
+
 Для запуска Cisco устройств на VMware вам понадобятся виртуальные образы Cisco. Вот основные варианты:
 
 ## Cisco VIRL/CML (Cisco Modeling Labs)
